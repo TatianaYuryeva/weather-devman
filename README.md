@@ -1,7 +1,6 @@
 # Получите погоду из терминала
 
 Скрипт, который показывает погоду в нужном вам городе.
-
 Пример отображения:
 ```
 Череповец
@@ -41,8 +40,8 @@ payload = {
 ```
 
 Подробнее о правилах указания локаций и опций отображения:
-[wttr.in#usage](https://github.com/chubin/wttr.in#usage)
-[en.wttr.in/:help](https://en.wttr.in/:help)
+- [wttr.in#usage](https://github.com/chubin/wttr.in#usage)
+- [en.wttr.in/:help](https://en.wttr.in/:help)
 
 
 ### Цель проекта
